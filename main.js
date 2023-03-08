@@ -1,7 +1,7 @@
 var tootsierollix=0
 var tootsierolliy=0
     function preload() {
-      timeset=loadImage('https://i.postimg.cc/qMyS3ssH/pan-tostadito-2.png')
+      timeset=loadImage('https://dodo.ac/np/images/3/3d/Mario_%27Stache_NH_Icon.png')
     }
     
     function setup() {
